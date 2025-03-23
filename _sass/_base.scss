@@ -275,12 +275,12 @@ p {
     margin-bottom: 12px;
   }
   .level-bar {
-    height: 12px;
+    height: 14px;
     background: $smoky-white;
   }
   .level-bar-inner {
     height: 12px;
-    background: lighten($theme-color, 15%);
+    background: darken($theme-color, 50%);
   }
 }
 
