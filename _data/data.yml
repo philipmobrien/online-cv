@@ -5,29 +5,27 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  skills: True
   education: True # set to False if you want education in main section instead of in sidebar
 
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Philip O'Brien
+  tagline: Principal Data & BI Consultant
   # avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: philip@pasigraphy.co.uk
+  phone: +44 7977 552442
+  timezone: GB/Manchester # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  linkedin: philipmobrien
+  github: philipmobrien
+  telegram: pasigraphy # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,24 +40,18 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
-    title: Interests
+    title: Other
     info:
-    - item: Climbing
+    - item: Trustee, Mytholmroyd Arts
       link:
 
 
-    - item: Snowboarding
+    - item: Volunteer IT Tutor, Hebden Bridge Library
       link:
 
 
-    - item: Cooking
+    - item: 
       link:
 
 
@@ -99,7 +91,7 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
   - role: Lead Developer
     time: 2015 - Present
