@@ -224,13 +224,16 @@ experiences:
         - Bullet point
         - Bullet point
     - role: Senior Data Migration Engineer (Carve-in), TAG Worldwide / London, UK / 2010-2011
-    - role: Data Migration Engineer (Carve-Out), DHL / London, UK & Brussels, Belgium / 2009-2010
-    - role: Finance Systems & Processes Manager (Carve-In), Williams Lea Ltd / London, UK / 2007-2009
-    - role: Carve-In Project Lead, Williams Lea Ltd / London, UK / 2007
-    - role: Finance Manager, Williams Lea Ltd / London, UK / 2004-2006
-    - role: Finance Manager, OyezStraker / London, UK / 2002-2004
-    - role: Finance Specialist, Samsung Electronics (UK) Ltd, London, UK / 2001-2002
-    - role: Various Other / 1989-2001
+    time:
+    company:
+    details:
+    -role: Data Migration Engineer (Carve-Out), DHL / London, UK & Brussels, Belgium / 2009-2010
+    -role: Finance Systems & Processes Manager (Carve-In), Williams Lea Ltd / London, UK / 2007-2009
+    -role: Carve-In Project Lead, Williams Lea Ltd / London, UK / 2007
+    -role: Finance Manager, Williams Lea Ltd / London, UK / 2004-2006
+    -role: Finance Manager, OyezStraker / London, UK / 2002-2004
+    -role: Finance Specialist, Samsung Electronics (UK) Ltd, London, UK / 2001-2002
+    -role: Various Other / 1989-2001
 
 certifications:
   title: Certifications
